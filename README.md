@@ -12,27 +12,33 @@ This will be a long and difficult journey, but the end goal of having self-hoste
 
 ### j-notes
 
-A simple app to keep track of thoughts and to-do lists.
+A simple app to keep track of thoughts and to-do lists. 
+<a href="http://notes.jmuszka.com">notes.jmuszka.com</a>
 
 ### j-photos
 
-Cloud storage to store photos and videos.
+Cloud storage to store photos and videos. 
+<a href="http://photos.jmuszka.com">photos.jmuszka.com</a>
 
 ### j-music
 
-Music player and cloud storage for audio files.
-
-### j-drive
-
-General cloud storage for all kinds of files and folders.
+Music player and cloud storage for audio files. 
+<a href="http://music.jmuszka.com">music.jmuszka.com</a>
 
 ### j-mail
 
 Secure and privacy-oriented email.
 
+### j-drive
+
+General cloud storage for all kinds of files and folders. 
+<a href="http://drive.jmuszka.com">drive.jmuszka.com</a>
+
+
 ### j-calendar
 
-Lightweight calendar app to keep track of dates and events.
+Lightweight calendar app to keep track of dates and events. 
+<a href="http://calendar.jmuszka.com">calendar.jmuszka.com</a>
 
 ## Future
 
