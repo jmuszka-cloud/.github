@@ -10,15 +10,15 @@ As a passionate (and amateur) developer and tech enthusiast, my programming skil
 
 This will be a long and difficult journey, but the end goal of having self-hosted, compartmentalized software will be invaluable to both my day-to-day life, and my development career. Each service will be built from the ground up to ensure maximum quality and security. For most of these projects, there will be three components: a server backend, running on my server-computer; a web-interface, to use in a browser from anywhere; and an Android app. The cloud-based infrastructure will allow for seamless use across devices and locations. With each project being independent, this will provide opportunity for me to experiment with many varying technologies, languages, and frameworks; all for the optimal learning experience. These projects are primarily for my personal use. However, good programming practices and well-built infrastructure will be deployed to allow other users to enjoy my software as well, sometime in the future.
 
-### j-notes
-
-A simple app to keep track of thoughts and to-do lists. 
-<a href="http://notes.jmuszka.com">notes.jmuszka.com</a>
-
 ### j-photos
 
 Cloud storage to store photos and videos. 
 <a href="http://photos.jmuszka.com">photos.jmuszka.com</a>
+
+### j-notes
+
+A simple app to keep track of thoughts and to-do lists. 
+<a href="http://notes.jmuszka.com">notes.jmuszka.com</a>
 
 ### j-music
 
