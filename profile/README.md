@@ -15,6 +15,8 @@ This will be a long and difficult journey, but the end goal of having self-hoste
 Cloud storage to store photos and videos. 
 <a href="http://photos.jmuszka.com">photos.jmuszka.com</a>
 
+View the <a href="https://github.com/jmuszka-cloud/j-photos">repository</a>.
+
 ### j-notes
 
 A simple app to keep track of thoughts and to-do lists. 
