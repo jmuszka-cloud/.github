@@ -1,5 +1,5 @@
 # j-cloud
-https://github.com/jmuszka-cloud/.github/edit/main/profile/README.md
+
 ## Purpose
 
 Open-source software is king. Nothing beats the security, reliability, and freedom that comes with the "Free and Open-Source Software" (FOSS) philosophy. As a FOSS enthusiast, I have been gradually ending my reliance on proprietary software from big tech companies, and switching to open-source alternatives: Linux (PopOS, Manjaro, Fedora), GrapheneOS, self-hosted email server. Instead of being subject to the invasive telemetry and information-harvesting of Google and Microsoft products, I am in control of my own user-data. Instead of paying for bloated "software as a service" programs like Microsoft Office, I can save my hard-earned money and use superior software for free. Instead of trusting proprietary tech companies to create secure and efficient software, communities of passionate developers come together to fix bugs and security vulnerabilities. With the power of publicly-availiable source code, anything is possible.
